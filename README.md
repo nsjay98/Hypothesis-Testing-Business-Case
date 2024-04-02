@@ -14,6 +14,6 @@ The dataset used in this analysis includes variables related to customer demogra
 
 # Files Included:
 * yulu.csv: The dataset used for analysis.
-* analysis.ipynb: Jupyter Notebook containing the analysis code.
-* README.md: Project overview and instructions.
-How to Use
+* Business_Case_Hypothesis_Testing.ipynb: Jupyter Notebook containing the analysis code.
+* README.md: Project overview.
+
